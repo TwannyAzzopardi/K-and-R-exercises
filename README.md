@@ -28,7 +28,7 @@ The goal is to:
 
 | Exercise | Description | File |
 |-----------|--------------|------|
-| 1-21 | Replace spaces with tabs ("entab") | [`exercise1-21.c`](exercise1-21.c) |
+| 1-21 | Replace spaces with tabs ("entab") | [`ex.1-21.c`](ex.1-21.c) |
 
 ---
 
