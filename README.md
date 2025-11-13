@@ -45,5 +45,5 @@ The goal is to:
 Compile and run any exercise manually:
 
 ```bash
-gcc exercise1-21.c -o exercise1-21
-./exercise1-21
+gcc ex.1-21.c -o ex.1-21
+./ex.1-21
