@@ -1,8 +1,8 @@
-//Exercise 1-21. Write a program entab that replaces strings of blanks
-//by the minimum number of tabs and blanks to achieve the same spacing.
-//Use the same tab stops as for entab. When either a tab or a single
-//blank would suffice to reach a tab stop, which should be given
-//preference?
+// Exercise 1-21. Write a program entab that replaces strings of blanks
+// by the minimum number of tabs and blanks to achieve the same spacing.
+// Use the same tab stops as for detab. When either a tab or a single
+// blank would suffice to reach a tab stop, which should be given
+// preference?
 
 #include <stdio.h>
 
@@ -14,14 +14,14 @@ void entab(char to[], char from[], int tabspaces);
 
 int main()
 {
-    int len;		/* current line length */
+    int len;			/* current line length */
     
     char line[MAXLINE];		/* current input line */
-    char tabs[MAXLINE];	/* longest line saved here */
+    char tabs[MAXLINE];	
 
     while ((len = getLine(line, MAXLINE)) > 0){
 	    entab(tabs,line,TABSPACES);
-        printf("%s", tabs);
+            printf("%s", tabs);
     }
 
     return 0;
