@@ -22,7 +22,7 @@ The goal is to:
 /* Revise the main routine of the longest-line program so it will
  * correctly print the length of arbitrarily long input lines, and as
  * much as possible of the text.*/
-[`ex.1-16`](ex.1-21.c)
+[`ex.1-16`](ex.1-16.c)
 
 ### Exercise 1-21 ### 
 /* Exercise 1-21. Write a program entab that replaces strings of blanks
