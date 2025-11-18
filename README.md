@@ -1,11 +1,11 @@
-# 📗 K&R C Programming Exercises
+# K&R C Programming Exercises
 
 This repository contains my solutions and notes from **_The C Programming Language_** by Brian Kernighan and Dennis Ritchie (K&R).  
 I’m using this repo to track my learning progress in C, one exercise at a time.
 
 ---
 
-## 🚀 About
+## About
 The goal is to:
 - Practice writing idiomatic, clean C code  
 - Learn the core concepts from K&R  
@@ -13,26 +13,28 @@ The goal is to:
 
 ---
 
-## 📘 Progress
+## Progress
+---
 
-| Chapter | Exercises | Status |
-|----------|------------|--------|
-| 1 | 1–24 | ✅ In progress |
-| 2 | — | ⏳ Upcoming |
-| 3 | — | ⏳ Upcoming |
-| 4+ | — | 🔒 Not started |
+## Completed Exercises
+
+### Exercise 1-16 ###                                     
+/* Revise the main routine of the longest-line program so it will
+ * correctly print the length of arbitrarily long input lines, and as
+ * much as possible of the text.*/
+[`ex.1-16`](ex.1-21.c)
+
+### Exercise 1-21 ### 
+/* Exercise 1-21. Write a program entab that replaces strings of blanks
+ * by the minimum number of tabs and blanks to achieve the same spacing.
+ * Use the same tab stops as for entab. When either a tab or a single
+ * blank would suffice to reach a tab stop, which should be given
+ * preference? */
+[`ex.1-21.c`](ex.1-21.c)
 
 ---
 
-## ✅ Completed Exercises
-
-| Exercise | Description | File |
-|-----------|--------------|------|
-| 1-21 | Replace spaces with tabs ("entab") | [`ex.1-21.c`](ex.1-21.c) |
-
----
-
-## 🧠 Notes
+## Notes
 
 - Getting comfortable with character arrays and loops  
 - Exploring how to process text input in C  
@@ -40,7 +42,7 @@ The goal is to:
 
 ---
 
-## 🛠️ How to Run
+## How to Run
 
 Compile and run any exercise manually:
 

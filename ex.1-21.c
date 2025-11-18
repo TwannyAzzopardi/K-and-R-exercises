@@ -20,7 +20,7 @@ int main()
     char tabs[MAXLINE];	
 
     while ((len = getLine(line, MAXLINE)) > 0){
-	    entab(tabs,line,TABSPACES);
+            entab(tabs,line,TABSPACES);
             printf("%s", tabs);
     }
 
