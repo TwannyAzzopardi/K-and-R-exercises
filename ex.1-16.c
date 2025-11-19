@@ -1,10 +1,6 @@
-/* To illustrate the use of character arrays and functions to manipulate
- * them, let's write a program that reads a set of text lines and prints
- * the longest.*/
-
-/* Revise the main routine of the longest-line program so it will
- * correctly print the length of arbitrarily long input lines, and as
- * much as possible of the text.*/
+/* Exercise 1-16. Revise the main routine of the longest-line program so
+ * it will correctly print the length of arbitrarily long input lines,
+ * and as much as possible of the text.*/
 
 #include <stdio.h>
 #define MAXLINE 80  	 /* maximum input line size */
