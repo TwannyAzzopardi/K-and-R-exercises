@@ -1,5 +1,7 @@
-/* Exercise 1-15. Rewrite the tempreature conversion program of Section
- * 1.2 to use a function for conversion.*/
+/* 
+ * Exercise 1-15. Rewrite the tempreature conversion program of Section
+ * 1.2 to use a function for conversion.
+ */
 
 #include <stdio.h>
 

@@ -1,6 +1,8 @@
-/* Exercise 1-16. Revise the main routine of the longest-line program so
+/* 
+ * Exercise 1-16. Revise the main routine of the longest-line program so
  * it will correctly print the length of arbitrarily long input lines,
- * and as much as possible of the text.*/
+ * and as much as possible of the text.
+ */
 
 #include <stdio.h>
 #define MAXLINE 80  	 /* maximum input line size */
