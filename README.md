@@ -24,6 +24,60 @@ The goal is to:
 
 ## Completed Exercises
 
+### Exercise 1-03
+/* 
+ * Exercise 1-3. Modify the tempreature conversion program to
+ * print a heading above the table.
+ */
+
+[`ex.1-03`](ex.1-03.c)
+### Exercise 1-04
+/* 
+ * Exercise 1-4. Write a program to print the corresponding Celsius to
+ * Fahrenheit table. F = ( 9/5 X C ) + 32 
+ */
+
+[`ex.1-04`](ex.1-04.c)
+### Exercise 1-05
+/* 
+ * Exercise 1-5. Modify the temperature conversion program to print the
+ * table in reverse order, that is from 300 degrees to 0. 
+ */
+
+[`ex.1-05`](ex.1-05.c)
+### Exercise 1-06
+/* 
+ * Exercise 1-6. Verify that the expression getchar() != EOF is 0 or 1.
+ */
+
+[`ex.1-06`](ex.1-06.c)
+### Exercise 1-07
+/* Exercise 1-7. Write a program to print the value of EOF. */
+
+[`ex.1-07`](ex.1-07.c)
+
+### Exercise 1-08
+/* 
+ * Exercise 1-8. Write a program to count blanks, tabs, and newlines.
+ */
+
+[`ex.1-08`](ex.1-08.c)
+### Exercise 1-09
+/* 
+ * Exercise 1-9.  Write a program to copy its input to its output,
+ * replacing each string of one or more blanks by a single blank.  
+ */
+
+[`ex.1-09`](ex.1-09.c)
+### Exercise 1-10
+/* 
+ * Exercise 1-10. Write a program to copy its input to its output,
+ * replacing each tab by \t, each backspace by \b, and each backslash by
+ * \\. This make tabs and backspaces visible in an unambiguous way. 
+ */
+
+[`ex.1-10`](ex.1-10.c)
+
 ### Exercise 1-12
 
 /* 
