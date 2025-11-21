@@ -120,6 +120,38 @@ The goal is to:
  */
 [`ex.1-16`](ex.1-16.c)
 
+### Exercise 1-17 ### 
+
+/* 
+ * Exercise 1-17. Write a program to print all input lines that are
+ * longer than 80 characters. 
+ */
+[`ex.1-17`](ex.1-17.c)
+### Exercise 1-18 ### 
+
+/* 
+ * Exercise 1-18 : Write a program to remove trailing blanks and tabs
+ * from each line of input, and to delete entirely blank lines. 
+ */  
+[`ex.1-18`](ex.1-18.c)
+### Exercise 1-19 ### 
+
+/* 
+ * Exercise 1-19. Write a function reverse(s) that reverses the
+ * character string s. Use it to write a program that reverses its input
+ * a line at a time. 
+ */
+[`ex.1-19`](ex.1-19.c)
+### Exercise 1-20 ### 
+
+/* 
+ * Exercise 1-20. Write a program detab that replaces tabs in the input
+ * with the proper number of blanks to space to the next tab stop.
+ * Assume a fixed set of tab stops, say every n columns. Should n be a
+ * variable or a symbolic parameter? 
+ */
+[`ex.1-20`](ex.1-16.c)
+
 ### Exercise 1-21 ### 
 
 /* 
