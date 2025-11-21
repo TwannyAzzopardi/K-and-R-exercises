@@ -154,6 +154,7 @@ The goal is to:
  */
 
 [`ex.1-21`](ex.1-21.c)
+
 ---
 
 ## Notes
