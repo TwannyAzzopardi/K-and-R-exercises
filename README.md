@@ -49,25 +49,21 @@ The goal is to:
 /* 
  * Exercise 1-6. Verify that the expression getchar() != EOF is 0 or 1.
  */
-
 [`ex.1-06`](ex.1-06.c)
 ### Exercise 1-07
 /* Exercise 1-7. Write a program to print the value of EOF. */
-
 [`ex.1-07`](ex.1-07.c)
 
 ### Exercise 1-08
 /* 
  * Exercise 1-8. Write a program to count blanks, tabs, and newlines.
  */
-
 [`ex.1-08`](ex.1-08.c)
 ### Exercise 1-09
 /* 
  * Exercise 1-9.  Write a program to copy its input to its output,
  * replacing each string of one or more blanks by a single blank.  
  */
-
 [`ex.1-09`](ex.1-09.c)
 ### Exercise 1-10
 /* 
@@ -77,15 +73,14 @@ The goal is to:
  */
 
 [`ex.1-10`](ex.1-10.c)
-
 ### Exercise 1-12
 
 /* 
  * Exercise 1-12. Write a program that prints its input one word per
  * line. 
- */ 
-[`ex.1-12`](ex.1-12.c)
 
+ */
+[`ex.1-12`](ex.1-12.c)
 ### Exercise 1-13
 
 /* 
