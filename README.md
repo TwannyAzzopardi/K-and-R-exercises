@@ -153,7 +153,7 @@ The goal is to:
  * preference? 
  */
 
-[`ex.1-21.c`](ex.1-21.c)
+[`ex.1-21`](ex.1-21.c)
 ---
 
 ## Notes
