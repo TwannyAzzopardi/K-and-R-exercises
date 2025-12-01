@@ -19,6 +19,7 @@ The goal is to:
 ## Progress
 2025-09-15 Started  Chapter 1  
 2025-11-01 Finished Chapter 1  
+2025-12-01 Uploaded ex.1-22.c
 
 ---
 
@@ -154,6 +155,16 @@ The goal is to:
  */
 
 [`ex.1-21`](ex.1-21.c)
+### Exercise 1-22 ### 
+/* 
+ * Exercise 1-22. Write a program to "fold" long input lines into two or
+ * more shorter lines after the last non-blank character that occurs
+ * before the n-th column of input. Make sure your program does
+ * something intelligent with very long lines, and if there are no
+ * blanks or tabs before the specified column 
+ */
+
+[`ex.1-22`](ex.1-22.c)
 
 ---
 
