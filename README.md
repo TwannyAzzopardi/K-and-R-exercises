@@ -17,10 +17,10 @@ The goal is to:
 ---
 
 ## Progress
-2025-09-15 Started  Chapter 1  
-2025-11-01 Finished Chapter 1  
-2025-12-01 Uploaded ex.1-22.c
 2025-12-05 Uploaded ex.1-23.c
+2025-12-01 Uploaded ex.1-22.c
+2025-11-01 Finished Chapter 1  
+2025-09-15 Started  Chapter 1  
 
 ---
 
