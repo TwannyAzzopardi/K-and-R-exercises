@@ -17,6 +17,7 @@ The goal is to:
 ---
 
 ## Progress
+2026-05-11 Uploaded ex.2-2.c and ex.2-3.c  
 2025-12-05 Uploaded ex.1-23.c  
 2025-12-01 Uploaded ex.1-22.c  
 2025-11-01 Finished Chapter 1  
